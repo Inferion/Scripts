@@ -1,0 +1,1 @@
+This is my repository for all my lua, c++ (won't be many of those as of now,) C, and Java scripts/codes. 
